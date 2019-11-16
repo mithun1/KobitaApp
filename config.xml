@@ -1,5 +1,5 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.webapsolution.poembangala" version="1.0.0">
-  <name>ভালো ও মন্দ কবিতা </name>
+  <name>ভালো ও মন্দ কবিতা 2 </name>
   <description>A application of bangala poem and poetry.</description>
   <author href="http://www.webapsolution.com" email="info@webapsolution.com">Webapsolution.com</author>
   <content src="index.html"/>
